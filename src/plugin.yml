@@ -1,0 +1,13 @@
+name: BoatBattle
+main: me.Ckay.pvp.Main
+version: 1.0
+author: ABkayCkay
+commands:
+   boat:
+      description: Main Boat command
+      usage: /boat
+permissions:
+  boat.admin:
+    description: Give access to admin command.
+  boat.join:
+    description: Can join arena.
